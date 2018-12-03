@@ -3,7 +3,7 @@
 
 
 ### 다음으로 접속!
-`ssh -i "delf-ec2-cloud-computing-class.pem" ec2-user@ec2-54-186-103-66.us-west-2.compute.amazonaws.com`
+ec2-user@ec2-54-186-103-66.us-west-2.compute.amazonaws.com
 
 # 발표 자료
 ---
