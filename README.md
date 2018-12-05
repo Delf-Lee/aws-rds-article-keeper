@@ -6,4 +6,4 @@
 https://ec2-user@ec2-54-186-103-66.us-west-2.compute.amazonaws.com
 
 # 발표 자료
-[발표자료.pdf](./aws=-rds.pdf)
+[발표자료.pdf](./aws-rds.pdf)
